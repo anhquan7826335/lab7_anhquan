@@ -31,10 +31,12 @@ Khi cập nhật hoặc xóa, thay `{id}` trong URL bằng ID User cần thao t�
 
 #### Ảnh minh họa User
 GET:
+
 <img width="959" height="599" alt="image" src="https://github.com/user-attachments/assets/ca4f6632-f950-4db5-8565-b467ac36eb6e" />
 <img width="959" height="599" alt="image" src="https://github.com/user-attachments/assets/a4c29b20-e0bc-43e1-ab8e-ef4810579fc0" />
 
 Post:
+
 <img width="959" height="580" alt="image" src="https://github.com/user-attachments/assets/df6a01f9-10ab-471e-a9c4-d81409b15b02" />
 
 <img width="958" height="599" alt="image" src="https://github.com/user-attachments/assets/cd177c88-0dc7-464e-a782-24864e5bc929" />
@@ -69,10 +71,12 @@ Khi cập nhật hoặc xóa, thay `{id}` trong URL bằng ID Song cần thao t�
 
 #### Ảnh minh họa Song
 Get:
+
 <img width="959" height="599" alt="image" src="https://github.com/user-attachments/assets/1b615ccb-e4ed-4259-b84c-be2cc9f5f140" />
 <img width="959" height="599" alt="image" src="https://github.com/user-attachments/assets/e6ec9cda-1687-40e5-aa20-d9dd58bad969" />
 
 Post:
+
 <img width="959" height="599" alt="image" src="https://github.com/user-attachments/assets/a052a30a-1ac4-4b12-a6e0-f6ef4d056207" />
 <img width="959" height="599" alt="image" src="https://github.com/user-attachments/assets/572e5127-8a95-439a-b648-c82781fd605b" />
 
